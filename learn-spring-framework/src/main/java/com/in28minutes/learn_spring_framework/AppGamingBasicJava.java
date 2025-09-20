@@ -12,6 +12,7 @@ public class AppGamingBasicJava {
 		var superContraGame = new SuperContraGame();
 		var gameRunner = new GameRunner(superContraGame);
 		gameRunner.run();
+		
 	}
 
 }
