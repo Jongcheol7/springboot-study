@@ -1,20 +1,20 @@
 package com.in28minutes.learn_spring_framework.game;
 
-public class MarioGame implements GamingConsole {
+public class PacmanGame implements GamingConsole {
 	
 	public void up() {
 		System.out.println("Jump");
 	}
 	
 	public void down() {
-		System.out.println("Go into a hole");
+		System.out.println("down");
 	}
 	
 	public void left() {
-		System.out.println("Go Back");
+		System.out.println("left");
 	}
 	
 	public void right() {
-		System.out.println("Accelerator");
+		System.out.println("right");
 	}
 }
