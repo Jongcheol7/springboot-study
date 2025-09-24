@@ -1,4 +1,4 @@
-package com.springboot.learn_spring_boog;
+package com.springboot.learn_spring_boot;
 
 import java.util.Arrays;
 import java.util.List;
