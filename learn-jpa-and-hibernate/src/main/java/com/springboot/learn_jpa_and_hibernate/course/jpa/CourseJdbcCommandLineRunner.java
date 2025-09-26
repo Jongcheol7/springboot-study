@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 import com.springboot.learn_jpa_and_hibernate.course.Course;
 import com.springboot.learn_jpa_and_hibernate.course.jpa.CourseJpaRepository;
 
+/*
 @Component
 //CommandLineRunner 는 스프링이 시작할때 실행하고자 할게 있을떄
 public class CourseJdbcCommandLineRunner implements CommandLineRunner {
@@ -31,3 +32,4 @@ public class CourseJdbcCommandLineRunner implements CommandLineRunner {
 	
 
 }
+*/
